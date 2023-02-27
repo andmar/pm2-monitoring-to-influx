@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/rjforbes/pm2-monitoring-to-influx#readme",
   "dependencies": {
+    "@influxdata/influxdb-client": "^1.33.2",
     "influx": "^5.5.1",
     "pm2": "^4.4.0",
     "pmx": "^1.6.7"
